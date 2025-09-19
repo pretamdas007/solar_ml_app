@@ -103,3 +103,5 @@ logs/
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+
+.vercel
